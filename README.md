@@ -35,3 +35,4 @@
   
 <h2><strong>Apaixonado por Tecnologia, através delas transforma vidas por meio da programação!👊</strong></h2> 
 
+  ![snake gif](https://github.com/jhonmacc/jhonmacc/blob/output/github-contribution-grid-snake.gif)
