@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhon.macc92@gmail.com)
 ![site]()
 
-![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=dracula)
+![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=tokyonight)
 
 ## TECNOLOGIAS QUE TRABRALHO E ESTUDO HOJE EM DIA.
 
