@@ -9,7 +9,7 @@
 
 ![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=tokyonight)
 
-## TECNOLOGIAS QUE TRABRALHO E ESTUDO HOJE EM DIA.
+## TECNOLOGIAS QUE TRABALHO E ESTUDO HOJE EM DIA.
 
 <div style="display: flex"><br>
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
