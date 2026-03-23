@@ -7,13 +7,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhon.macc92@gmail.com)
 
 
-![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonmacc&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmacc&layout=compact&theme=tokyonight)
+
+![Jhon GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+
 
 ## TECNOLOGIAS QUE TRABALHO E ESTUDO HOJE EM DIA.
-
-
-
-<div style="display: flex"><br>
+<div style="display: flex">
 <h3><strong>Linguagens de Marcação e Estilo</strong></h3> 
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>+<img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> ou <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   
