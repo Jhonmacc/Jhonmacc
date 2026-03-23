@@ -116,7 +116,7 @@ I also work as a **software development instructor**, helping train and mentor n
 https://github.com/Jhonmacc/forum-web
 
 ### 🔹 Automation Platform
-- Workflow automation (N8N)
+- Workflow automation Vue Flow and React Flow: Node-Based UIs in React
 - API integrations
 - Business process optimization
 
