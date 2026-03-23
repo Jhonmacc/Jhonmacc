@@ -109,12 +109,11 @@ I also work as a **software development instructor**, helping train and mentor n
 
 ## 🚀 Featured Projects
 
-> (Adicione aqui seus projetos reais — MUITO importante)
-
 ### 🔹 Web Forum System
 - Full CRUD (posts, tags, users)
 - Authentication and permissions
 - Built with Laravel + Vue.js
+https://github.com/Jhonmacc/forum-web
 
 ### 🔹 Automation Platform
 - Workflow automation (N8N)
@@ -132,7 +131,3 @@ I also work as a **software development instructor**, helping train and mentor n
 </div>
 
 ---
-
-## ⚡ Philosophy
-
-> "Technology is not just about code — it's about solving real problems and creating impact."
