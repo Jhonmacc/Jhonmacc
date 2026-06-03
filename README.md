@@ -22,11 +22,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonmacc&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonmacc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonmacc&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmacc&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonmacc&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
