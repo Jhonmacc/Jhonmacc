@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Jhon Amorim  
-### Full Stack Developer | Software Engineer | Laravel • Vue • Cloud • DevOps
+### Full Stack Developer | Software Engineer | Laravel • Vue • React • Node • Cloud • DevOps
 
 💻 5+ years building scalable web applications  
 🏗️ Strong focus on software architecture and system design  
