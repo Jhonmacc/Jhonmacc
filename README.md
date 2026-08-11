@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhonmacc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="180em" src="./profile/stats.svg" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhonmacc&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="./profile/top-langs.svg" />
 
 </div>
 
